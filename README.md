@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**antonio-projects-studio/antonio-projects-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center"><samp> Hi there 🔭๋ welcome to my Github! I am a backender and ml engineer from MIPT </samp></h4>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img width="250" src="./images/moon.gif">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href= "https://vk.com/antonio_rodrigues"><img src="./images/vk-logo.svg" width="70" height="70"/></a>
+<a href= "https://t.me/Antonio_Rodriges"><img src="./images/telegram-logo.png" width="70" height="60"/></a>
+</p>
+
+<p align="center"><samp>
+Check out my repos 𖥔
+  </samp>
+</p>
